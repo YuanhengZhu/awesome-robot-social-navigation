@@ -192,6 +192,8 @@ Note that lots of datasets or benchmarks are proposed as a part of individual pa
   - [Intention Aware Robot Crowd Navigation with Attention-Based Interaction Graph](https://arxiv.org/pdf/2203.01821), ICRA 2023.
   - [Sample-Efficient Learning-Based Dynamic Environment Navigation With Transferring Experience From Optimization-Based Planner](https://ieeexplore.ieee.org/document/10552894), RA-L 2024.
   - [Socially aware object goal navigation with heterogeneous scene representation learning](https://ieeexplore.ieee.org/document/10556584), RA-L 2024.
+  - [NaviSTAR: Socially Aware Robot Navigation with Hybrid Spatio-Temporal Graph Transformer and Preference Learning](https://sites.google.com/view/san-navistar), [code](https://github.com/SMARTlab-Purdue/SAN-NaviSTAR), IROS2023.
+  - [ HEIGHT: HEterogeneous Interaction GrapH Transformer for Robot Navigation in Crowded and Constrained Environments](https://sites.google.com/view/crowdnav-height/home), [code](https://github.com/Shuijing725/CrowdNav_HEIGHT), under review IEEE TRO.
 
 ### Hybrid Approaches
 #### Model-based methods + RL
